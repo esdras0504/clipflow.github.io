@@ -8,4 +8,4 @@ ClipFlow does not store private TikTok credentials permanently and does not sell
 
 The service is provided "as is", without warranties of any kind.
 
-Contact: contato@clipflow.app
+Contact: eosolucoesempresariais@gmail.com
